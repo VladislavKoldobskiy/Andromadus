@@ -17,4 +17,4 @@ Then to sync up:
 
 Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
 
-You'll also need to add [local manifests](http://wiki.cyanogenmod.org/w/Doc:_Using_local_manifests) from this repository to .repo/local_manifest directory.
+You'll also need to add [local manifests](http://wiki.cyanogenmod.org/w/Doc:_Using_local_manifests) from this repository to your .repo/local_manifests.
