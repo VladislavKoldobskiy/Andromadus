@@ -2,7 +2,8 @@
 <!-- Andromadus modifications to CM build tree -->
 <manifest>
   <!-- legacy repositories part. For testing purposes only. -->
-
+  <!-- we need to update kernel to use these repos. Doesn't work atm.
   <project name="arco/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="cm-10.2_old" />
   <project name="arco/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="cm-10.2_old" />
+  -->
 </manifest>
