@@ -2,9 +2,9 @@
 <!-- Andromadus modifications to CM build tree -->
 <manifest>
   <!-- device trees and kernel -->
-  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="github" revision="cm10.2" />
-  <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" remote="github" revision="cm10.2" />
-  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="github" revision="cm10.2" />
+  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="github" />
+  <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" remote="github" />
+  <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="github" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="github" revision="jb4.2" />
   <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" remote="github" revision="jb4.2" />
   <!-- this repo is buggy. do not use.
